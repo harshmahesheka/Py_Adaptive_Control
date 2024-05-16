@@ -1,0 +1,1 @@
+This repository contains python implementation of some of the popular adaptive control techniques. This techniques were taught to me as part of my Adaptive and Optimal Control Course. I will be adding more algorithms soon. Feel free to add your algorithms by starting a pull request.
